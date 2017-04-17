@@ -1,0 +1,2 @@
+/Users/priyankaphapale/AndroidStudioProjects/Unit9-Code-Examples/HttpApp/app/build/intermediates/classes/debug
+/Users/priyankaphapale/AndroidStudioProjects/Unit9-Code-Examples/HttpApp/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-ab722de897f4a423f1309d4fd1231bad7b2fd4ea.jar
